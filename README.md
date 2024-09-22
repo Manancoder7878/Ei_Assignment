@@ -5,7 +5,7 @@
 2. Two use cases to demonstrate two creational design pattern.
 3. Two use cases to demonstrate two structural design pattern.
 
-#Excercise 2: Problem Statements for Mini-projects
+# Excercise 2: Problem Statements for Mini-projects
 
 1. Astronaut Daily Schedule Organizer Programming Exercise
 
